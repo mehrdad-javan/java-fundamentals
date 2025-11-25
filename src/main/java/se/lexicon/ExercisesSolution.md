@@ -1,6 +1,5 @@
-# Java Exercises – Questions, Algorithms, Pseudocode, and Java Code
+# Java Exercises
 
-This document contains a collection of Java exercises covering fundamental concepts like input/output, arithmetic operations, conditionals, and loops.
 
 ---
 
